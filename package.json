@@ -1,0 +1,18 @@
+{
+    "name": "cordova-plugin-view",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "cordova": {
+        "id": "cordova-plugin-view",
+        "platforms": [
+            "android",
+            "ios"
+        ]
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "longting",
+    "license": "ISC"
+}
